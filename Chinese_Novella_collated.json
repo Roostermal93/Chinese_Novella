@@ -8,28 +8,28 @@
             "collectionId": "Chinese",
             "type": "Novella",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Chinese/9e1b7ed9-ed0b-497a-8557-cc9941274826_ch_Male.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Chinese/9e1b7ed9-ed0b-497a-8557-cc9941274826_zh-CN_Male.mp4"
         },
         {
             "id": "5fcd6d3a-d527-487c-a62f-dbbd4f839e97",
             "collectionId": "Chinese",
             "type": "Novella",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Chinese/5fcd6d3a-d527-487c-a62f-dbbd4f839e97_ch_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Chinese/5fcd6d3a-d527-487c-a62f-dbbd4f839e97_zh-CN_Female.mp4"
         },
         {
             "id": "545ecde5-5379-4ed2-99ab-a734a508a73a",
             "collectionId": "Chinese",
             "type": "Novella",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Chinese/545ecde5-5379-4ed2-99ab-a734a508a73a_ch_Male.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Chinese/545ecde5-5379-4ed2-99ab-a734a508a73a_zh-TW_Male.mp4"
         },
         {
             "id": "b38f0e38-79d2-45fa-831c-a74db71de95a",
             "collectionId": "Chinese",
             "type": "Novella",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Chinese/b38f0e38-79d2-45fa-831c-a74db71de95a_ch_Male.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Chinese/b38f0e38-79d2-45fa-831c-a74db71de95a_zh-CN_Male.mp4"
         }
     ]
 }
